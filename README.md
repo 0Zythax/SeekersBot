@@ -1,7 +1,7 @@
 # Seekers Bot
 This is a discontinued Discord bot which was used to interface with a spreadsheet to log points for the Test Subject Enclave faction Seekers.
 There is a functionality which allows for the bot to read images to detect when items got sold using the Smugglers Bag, which
-gave the end-user points. The bot can also just, give points via a command. There is also logging. I was going to add a multiplier system but I never got to doing it.
+gave the end-user points. The bot can also just, give points via a command. There is also audit logs using a hacky method. I was going to add a multiplier system but I never got to doing it.
 This bot is written fully in Python.
 
 ## Disclaimer
