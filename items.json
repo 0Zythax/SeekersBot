@@ -1,0 +1,85 @@
+{
+    "airsoft p90" : {
+        "name" : "airsoft p90",
+        "value" : 0.5,
+        "manualReviewRequired" : "no"
+    },
+
+    "keycard scrambler" : {
+        "name" : "keycard scrambler",
+        "value" : 1,
+        "manualReviewRequired" : "no"
+    },
+
+    "sapper" : {
+        "name" : "sapper",
+        "value" : 1,
+        "manualReviewRequired" : "no"
+    },
+
+    "id card" : {
+        "name" : "id card",
+        "value" : 1,
+        "manualReviewRequired" : "no"
+    },
+
+    "l4 card" : {
+        "name" : "l4 card",
+        "value" : 1,
+        "manualReviewRequired" : "no"
+    },
+
+    "rotor blade" : {
+        "name" : "rotor blade",
+        "value" : 1,
+        "manualReviewRequired" : "no"
+    },
+
+    "akm" : {
+        "name" : "akm",
+        "value" : 1.5,
+        "manualReviewRequired" : "no"
+    },
+
+    "mk18" : {
+        "name" : "mk18",
+        "value" : 1.5,
+        "manualReviewRequired" : "no"
+    },
+
+    "scar h" : {
+        "name" : "scar h",
+        "value" : 2,
+        "manualReviewRequired" : "no"
+    },
+
+    "ar15" : {
+        "name" : "ar15",
+        "value" : 2,
+        "manualReviewRequired" : "no"
+    },
+
+    "floppy disk" : {
+        "name" : "floppy disk",
+        "value" : 4,
+        "manualReviewRequired" : "no"
+    },
+
+    "g36" : {
+        "name" : "g36",
+        "value" : 5,
+        "manualReviewRequired" : "no"
+    },
+
+    "ar57" : {
+        "name" : "ar57",
+        "value" : 5,
+        "manualReviewRequired" : "no"
+    },
+
+    "radio" : {
+        "name" : "g36",
+        "value" : 5,
+        "manualReviewRequired" : "yes"
+    }
+}
